@@ -1,3 +1,5 @@
 # Welcome
 
-Here you will find a few puzzles that will test your shell scripting knowledge.
+Here you'll find some sample shell scripts demonstrating different bash features.
+
+There's also a puzzle hidden in the branches. Can you put the pieces together?
